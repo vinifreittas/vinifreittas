@@ -1,6 +1,6 @@
 ## Olá, me chamo Vinicius, e sou um programador e developer júnior! 👋
 
-Fique à vontade pra explorar um pouco do meu portfólio no repósitório [Myprojects](github.com/vinifreittas/Myprojects).
+Fique à vontade pra explorar um pouco do meu portfólio no repósitório [Codigos](github.com/vinifreittas/Codigos).
 
 <div style="display: inline_block"><br>
     <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
