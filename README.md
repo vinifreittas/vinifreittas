@@ -1,4 +1,4 @@
-## Olá, me chamo Vinicius, e sou um programador e developer júnior! 👋
+## Olá, eu sou Vinicius — programador júnior em constante evolução, construindo projetos e aprendendo todos os dias. 👋
 
 Fique à vontade pra explorar meu perfil! 😎
 
