@@ -1,5 +1,7 @@
 ## Olá, eu sou Vinicius — programador júnior em constante evolução, construindo projetos e aprendendo todos os dias. 👋
 
+**`Desenvolvedor FrontEnd`** **`Progamador Python e C`** 
+
 Fique à vontade pra explorar meu perfil! 😎
 
 <div style="display: inline_block"><br>
