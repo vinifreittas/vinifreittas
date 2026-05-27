@@ -1,4 +1,4 @@
-## Olá, eu sou Vinicius — desenvolvedor júnior em constante evolução, construindo projetos e aprendendo todos os dias. 👋
+## Olá, eu sou Vinicius — desenvolvedor em constante evolução, construindo projetos e aprendendo todos os dias. 👋
 
 Fique à vontade pra explorar meu perfil! 😎
 
