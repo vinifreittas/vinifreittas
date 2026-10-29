@@ -1,13 +1,13 @@
-## Olá, eu sou Vinicius — desenvolvedor em constante evolução, construindo projetos e aprendendo todos os dias. 👋
+## Hi, I'm Vinicius — a constantly evolving developer, building projects and learning every day. 👋
 
-Fique à vontade pra explorar meu perfil! 😎
+Feel free to explore my profile! 😎
 
 <div><br>
     <img alt="Python" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
-	<img alt="C" width="35" src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000"> 
+    <img alt="C" width="35" src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000"> 
     <img alt="HTML" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
-	<img alt="CSS" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
-	<img alt="Javascript" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"> 
+    <img alt="CSS" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
+    <img alt="Javascript" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"> 
 </div>
 
 ##
